@@ -1,0 +1,6 @@
+Hello Welcome to GitHub 
+
+commit 1st file in firstbranch.
+modified in FB
+
+add 2nd file in FB
